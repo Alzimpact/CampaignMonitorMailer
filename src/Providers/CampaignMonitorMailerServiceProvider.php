@@ -1,8 +1,8 @@
 <?php
 
-namespace Alz\CampaignMonitorMailer\Providers;
+namespace CampaignMonitorMailer\Providers;
 
-use Alz\CampaignMonitorMailer\Transport\CampaignMonitorTransport;
+use CampaignMonitorMailer\Transport\CampaignMonitorTransport;
 use Illuminate\Support\ServiceProvider;
 
 class CampaignMonitorMailerServiceProvider extends ServiceProvider
